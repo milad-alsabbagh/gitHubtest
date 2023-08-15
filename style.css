@@ -1,0 +1,59 @@
+h1{
+    color: black;
+}
+.error{
+    color: red;
+}
+.success{
+    color: green;
+}
+#test{
+    color: magenta;
+}
+.orange{
+    background-color: orange;
+}
+.yellow{
+    background-color: yellow;
+}
+.fobt-style{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.p-style{
+    font-size: large;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    text-decoration: underline;
+}
+ul{
+    list-style-type: circle;
+    margin: 0; 
+     padding: 0; 
+}
+.box-model{
+    border: 1px solid red;
+    margin: 20px;
+    padding: 50px;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+.inheritance{
+    color: orange;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+td,th{
+    text-align: center;
+    font-size: large;
+    border-bottom: 1px solid red;
+    padding: 10px;
+}
+table{
+    width: 60%;
+    border-collapse: collapse;
+}
